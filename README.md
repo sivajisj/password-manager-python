@@ -34,8 +34,8 @@ Enter the website, email, and password details.
 Click "Generate Password" for a secure password.
 Click "Add" to save the details or "Search" to retrieve a password.
 
-##Screenshots
-<img src="./ss.png width=100% />
+## Screenshots
+<img src="./ss.png" width="900" />
 
 ## Dependencies
 Python 3.x
