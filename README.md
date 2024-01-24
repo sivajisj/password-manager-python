@@ -35,7 +35,7 @@ Click "Generate Password" for a secure password.
 Click "Add" to save the details or "Search" to retrieve a password.
 
 ##Screenshots
-<img src="./ss.jpg width=100% />
+<img src="./ss.png width=100% />
 
 ## Dependencies
 Python 3.x
